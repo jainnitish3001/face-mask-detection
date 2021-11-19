@@ -15,10 +15,6 @@ https://data-flair.training/blogs/download-face-mask-data/
 
 ## Live Link :
 https://nitish-mask-detection.herokuapp.com/
-<<<<<<< HEAD
-
-=======
->>>>>>> 6da1004744025c0b2716e4e1edc28cd01fa8fcb8
 
 ## Input Interface :
 ![Screenshot](interface.JPG)
@@ -36,7 +32,7 @@ https://nitish-mask-detection.herokuapp.com/
 ![Screenshot](output2.JPG)
 
 ## Flowchart : 
-![Screenshot](flowchart.JPEG)
+![Screenshot](flowchart.jpeg)
 
 ## Submitted by :- 
 ### Nitish Jain
